@@ -1,6 +1,6 @@
 package org.leonidasanin.infectedpeoplechainmanager.controllers;
 
-import org.leonidasanin.infectedpeoplechainmanager.entities.Contacts;
+import org.leonidasanin.infectedpeoplechainmanager.jsonObjects.Contacts;
 import org.leonidasanin.infectedpeoplechainmanager.services.ContactedPeopleService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package org.leonidasanin.infectedpeoplechainmanager.entities;
+package org.leonidasanin.infectedpeoplechainmanager.jsonObjects;
 
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 

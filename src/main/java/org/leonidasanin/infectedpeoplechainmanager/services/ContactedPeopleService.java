@@ -1,6 +1,6 @@
 package org.leonidasanin.infectedpeoplechainmanager.services;
 
-import org.leonidasanin.infectedpeoplechainmanager.entities.Contacts;
+import org.leonidasanin.infectedpeoplechainmanager.jsonObjects.Contacts;
 import org.leonidasanin.infectedpeoplechainmanager.entities.Person;
 import org.leonidasanin.infectedpeoplechainmanager.repositories.PersonRepository;
 import org.springframework.stereotype.Service;
