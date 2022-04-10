@@ -1,2 +1,2 @@
 # infected-people-chain-manager
- Test project for PS bank
+Project for solving a test task about recursion 
